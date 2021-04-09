@@ -42,6 +42,7 @@ public class Escuela {
   //Scanner
   Scanner j = new Scanner(System.in);
   do {//do while de sub menu 3 para que se repita menu y no se salga en caso de opcion invalida
+   System.out.println("\n-----MENU-----");
    System.out.println("\n-----Elige una opcion-----");
    System.out.println(" 1.-Guardar datos de los Alumnos");
    System.out.println(" 2.-Guardar datos de los Maestros");
